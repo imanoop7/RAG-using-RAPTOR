@@ -28,8 +28,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 _This repository was inspired by the synergy of retrieval and generation models. Happy experimenting!_ 📚🔍🤖
 
- 
-_Have implemented this with help of -
+
+---
+
+Have implemented this with help of -
  https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb
  and
  https://github.com/parthsarthi03/raptor/blob/master/raptor/cluster_tree_builder.py
